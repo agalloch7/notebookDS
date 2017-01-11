@@ -10,7 +10,8 @@ We will take on the role of a vision system for a car, looking around at any obs
 Overall, in this project,
 
 we will examine the following:
-• Classifying objects in images
-• The different types of deep neural networks
-• Theano, Lasagne, and nolearn; libraries to build and train neural networks
-• Using a GPU to improve the speed of the algorithms
+
+    - Classifying objects in images
+    - The different types of deep neural networks
+    - Theano, Lasagne, and nolearn; libraries to build and train neural networks
+    - Using a GPU to improve the speed of the algorithms
