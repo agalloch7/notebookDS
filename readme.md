@@ -1,3 +1,4 @@
+<h2> Project 1: Image Classification with Deep Learning </h2>
 We will look at determining what object is represented in an image. The pixel values will be used as input, and the neural network will then automatically  nd useful combinations of pixels to form higher-level features. 
 
 We will take on the role of a vision system for a car, looking around at any obstacles in the way or on the side of the road. Images are of the following form from the CIFAR 10 dataset:
